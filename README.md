@@ -7,16 +7,24 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px">
 </p>
 
----
-
-### 💬 **About Me**
 </div>
 
-🎓 Estudiante de **Programación en TECLAB**, siguiendo el **Roadmap Java 2024 (TodoCode)**.  
-💡 Actualmente estoy desarrollando mi **primer sistema de gestión en Java**, aplicando conceptos de **POO**, **MVC** y **REST APIs**.  
-🚀 Apasionado por la arquitectura backend, el código limpio y el aprendizaje continuo.  
-🌱 Interesado en **Spring Boot**, **Hibernate**, **MySQL**, y las buenas prácticas de desarrollo.  
-💬 Siempre abierto a colaborar en proyectos interesantes o discutir sobre tecnología.  
+---
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
+
+Soy estudiante de **Programación en TECLAB** y actualmente sigo el **Roadmap Java 2024 (TodoCode)** para convertirme en **Desarrollador Backend especializado en Java y Spring Boot**.  
+Mi enfoque está en crear aplicaciones sólidas y bien estructuradas, aplicando los principios de **POO**, **MVC** y desarrollo de **APIs RESTful**.
+
+- 🌱 En este momento estoy desarrollando mi **primer sistema de gestión en Java**.  
+- 💡 Interesado en **Spring Boot, Hibernate, MySQL y arquitectura de software**.  
+- ⚙️ Conocimientos complementarios en **HTML, CSS, JavaScript, React (en aprendizaje)**.  
+- 💬 Siempre dispuesto a colaborar y compartir lo que aprendo.  
+- 🧠 En constante aprendizaje de buenas prácticas, testing y metodologías ágiles.  
+- 📚 Formación previa en **Desarrollo Full Stack (Coderhouse, 2022)**.  
+- 🗣️ Nivel de inglés **B1 Plus (validado por Cambridge – ANGLO Tucumán)**.  
+
+📫 **Contacto:** [jamardo.sebastian@gmail.com](mailto:jamardo.sebastian@gmail.com)
 
 ---
 
@@ -51,7 +59,7 @@
 <a href="https://github.com/SebastianJamardo" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:jamardo.sebastian@gmail.com" target="_blank">
+<a href="mailto:sebastianjamardo77@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -60,8 +68,13 @@
 ---
 
 <div align="center">
-  
+
 > “Aprender construyendo — esa es la base del desarrollo real.”  
 > — Sebastián Jamardo ☕  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="120px">
+</p>
+
 </div>
+
