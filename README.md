@@ -66,11 +66,10 @@
 
 ---
 
-<h2 align="center">📈 Actividad de Contribución</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianJamardo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+## 📈 Actividad de Contribución
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SebastianJamardo&theme=tokyonight&hide_border=true)
 
 ---
 
